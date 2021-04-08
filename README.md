@@ -21,6 +21,10 @@ The source of data used, and the type of transformation applied to the data to l
 * Insert the dataframes in the MongoDB collections
 * Convert the dataframes to dictionaries
 
+![](country_records.jpg)
+
+![](popular_videos.jpg)
+
 ## Features
 We choose MongoDB for this ETL project because we found it very useful for extracting data through Web Scraping, meaning we can later scale the project for integrating further datasets as the data is updated.
 
