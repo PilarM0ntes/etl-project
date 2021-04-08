@@ -20,7 +20,7 @@ The source of data used, and the type of transformation applied to the data to l
 * Insert the dataframes in the MongoDB collections
 * Convert the dataframes to dictionaries
 
-##Team members
+## Team members
 * Pilar Montes
 * Erick Macias
 * Jose Vazquez
